@@ -1,0 +1,12 @@
+terminator
+build-essential
+zsh
+code
+mongodb-org
+enpass
+spotify-client
+apt-transport-https
+ca-certificates
+curl
+software-properties-common
+docker-ce

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.1
+Encoding=UTF-8
+Type=Application
+Categories=Database;
+
+Name=Robo3T
+Comment=Remote control and meeting solution.
+Exec=/opt/robo3t/bin/robo3t
+
+# This icon might be overridden by other icon themes (e.g. breeze).
+Icon=/opt/robo3t/robomongo.png
