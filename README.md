@@ -1,1 +1,4 @@
 # dotfiles
+
+# TODO
+- docker-compose

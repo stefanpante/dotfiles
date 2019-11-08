@@ -1,7 +1,6 @@
 terminator
 build-essential
 zsh
-code
 mongodb-org
 enpass
 spotify-client
