@@ -9,3 +9,5 @@ ca-certificates
 curl
 software-properties-common
 docker-ce
+powerline
+fonts-powerline

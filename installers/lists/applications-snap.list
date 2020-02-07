@@ -1,5 +1,10 @@
 postman
+insomnia
 robo3t-snap
-slack
+slack --classic
 spotify
-code
+code --classic
+vlc
+blender --classic
+zenkit
+pycharm-community --classic

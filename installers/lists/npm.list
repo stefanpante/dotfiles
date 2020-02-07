@@ -3,3 +3,4 @@ create-react-app
 yarn
 react-native-cli
 create-react-native-app
+@babel/cli
